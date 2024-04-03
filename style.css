@@ -1,0 +1,13 @@
+p{
+    color:darksalmon;
+    background: white;
+    font-size: 50;
+    font-style: italic;
+}
+
+.box{
+    width: 100;
+    height: 100;
+    background: burlywood;
+    margin: 50;
+}
